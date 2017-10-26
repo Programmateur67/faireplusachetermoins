@@ -17,7 +17,7 @@
             <h1 class="display-3">Ménage</h1>
             <hr/>
 
-            <div class="row" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/lessive.php'">
+            <div class="row" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lessive.php'">
                 <div class="col-md-2 backimg img1 card"></div>
                 <div class="marge col-md-10">
                     <div class="card">

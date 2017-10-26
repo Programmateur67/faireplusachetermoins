@@ -18,7 +18,7 @@
             <hr/>
 
             <div class="row" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lessive.php'">
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
                     <div class="card">
                         <img src="../img/lessiveico.jpg" alt="lessive" class="card-img-top" />
                         <div class="card-body">

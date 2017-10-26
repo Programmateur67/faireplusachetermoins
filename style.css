@@ -11,3 +11,7 @@ body {
 .img1 {
     background-image: url(img/lessiveico.jpg);
 }
+
+.card {
+    margin-bottom: 0.5rem;
+}

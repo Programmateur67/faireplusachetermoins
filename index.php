@@ -22,9 +22,9 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
 
-                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam.php'">
+                    <div class="card mb-1" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam.php'">
                         <img src="img/confiturefraiserhubarbe2.jpg" alt="illusration miam" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">Miam</h4>
@@ -34,7 +34,7 @@
 
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/glou.php'">
                         <img src="img/charbonfiltre2.jpg" alt="illusration glou" class="card-img-top" />
@@ -46,7 +46,7 @@
 
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/conserves.php'">
                         <img src="img/ratatouille.jpg" alt="illusration conserves" class="card-img-top" />
@@ -61,7 +61,7 @@
             </div>
             <div class="row mt-3">
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage.php'">
                         <img src="img/lessiveico.jpg" alt="illusration ménage" class="card-img-top" />
@@ -73,7 +73,7 @@
 
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/corps.php'">
                         <img src="img/deo.jpg" alt="illusration corps" class="card-img-top" />
@@ -85,7 +85,7 @@
 
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/couture.php'">
                         <img src="img/servites.jpg" alt="illusration conserves" class="card-img-top" />

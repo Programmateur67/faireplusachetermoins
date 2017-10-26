@@ -15,7 +15,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4  mb-1">
                     <div class="card">
                         <div class="card-header text-muted">
                             Ingrédients
@@ -30,7 +30,7 @@
                         </div>
                         <img src="../../img/lessive2.JPG" alt="lessive" class="card-img-bottom" />
                         <div class="card-body">
-                            <a href="#" class="card-link btn btn-primary">Partager avec vos amis <span class="fa fa-facebook"></span></a>
+                            <a href="#" class="card-link btn btn-primary">Partager <span class="fa fa-facebook"></span></a>
                             <a href="#" class="float-right btn btn-danger"><span class="fa fa-heart"></span></a>
                         </div>
                         <img src="../../img/lessive.JPG" alt="lessive" class="card-img-bottom" />

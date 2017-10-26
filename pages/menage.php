@@ -18,8 +18,9 @@
             <hr/>
 
             <div class="row">
-                <div class="col-md-4 mb-1" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lessive.php'">
-                    <div class="card">
+                <div class="card-deck">
+
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lessive.php'">
                         <img src="../img/lessiveico.jpg" alt="lessive" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">La lessive</h4>
@@ -27,9 +28,8 @@
                             <p class="card-text">Ingrédients : cristaux de soude, savon de Marseille en paillettes, savon noir liquide, eau.</p>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4 mb-1" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lavevaisselle.php'">
-                    <div class="card">
+
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/lavevaisselle.php'">
                         <img src="../img/lavevaisselleico.jpg" alt="lavevaisselle" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">Le lave-vaisselle</h4>
@@ -37,7 +37,9 @@
                             <p class="card-text">Ingrédients: percarbonate de soude, cristaux de soude, savon de Marseille en paillettes, acide citrique.</p>
                         </div>
                     </div>
+
                 </div>
+
             </div>
 
         </div>

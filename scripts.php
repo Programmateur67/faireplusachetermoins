@@ -1,7 +1,7 @@
 <hr>
 
 <footer class="container">
-    <p>Website made by Tino Dorn &copy 2017</p>
+    <p>Website made by Tino Dorn &copy 2017 <span class="float-right text-muted">To improve our website you can send feedback at <a href="mailto:redmeca.yt@gmail.com">@TinoDorn</a></span></p>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

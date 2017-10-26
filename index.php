@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Faire + Acheter - | Acceuil</title>
+    <title>Faire + Acheter - | Accueil</title>
     <?php include 'head.php' ?>
 </head>
 
@@ -24,7 +24,7 @@
 
                 <div class="col-md-4 mb-1">
 
-                    <div class="card mb-1" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam.php'">
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam.php'">
                         <img src="img/confiturefraiserhubarbe2.jpg" alt="illusration miam" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">Miam</h4>
@@ -34,7 +34,7 @@
 
                 </div>
 
-                <div class="col-md-4 mb-1 mb-1">
+                <div class="col-md-4 mb-1">
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/glou.php'">
                         <img src="img/charbonfiltre2.jpg" alt="illusration glou" class="card-img-top" />

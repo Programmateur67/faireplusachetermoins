@@ -38,8 +38,11 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card">
+                        <div class="card-header text-center">
+                            La lessive
+                        </div>
                         <div class="card-body">
-                            <h4 class="card-title">Préparation : La lessive <span class="float-right fa fa-clock-o"> 15min</span></h4>
+                            <h4 class="card-title">Préparation :<span class="float-right fa fa-clock-o"> 15min</span></h4>
                             <p class="card-text">Dans ma cocotte minute (ou une grosse casserole à fond épais) je verse une cuillère à soupe de cristaux de soude + 20g de savon de Marseille en paillettes + 20g de savon noir liquide et un litre d’eau.</p>
                             <p class="card-text">Je porte le tout à ébullition. J’éteins le feu et laisse tiédir. Attention, en refroidissant, ça fige, donc il ne fait pas attendre trop longtemps avant de transvaser dans un bidon de lessive vide.</p>
                             <p class="card-text">C’est la recette de la Famille (presque) zéro déchet, mais sans l’huile essentielle, qui n’est là que pour parfumer et coûte cher. Je trouve ça super de se libérer de cette notion de propre = parfum. Ma lessive ne « sent » pas une odeur particulière, mais elle sent le propre quand même ;-) Et quand elle a pu sécher au soleil, c’est encore mieux!</p>

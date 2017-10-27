@@ -8,14 +8,28 @@
 
 <body>
     <!--Navigation bar-->
+
+    <div class="fixed-top">
+        <div class="card bg-secondary text-white text-center">
+            <div class="card-body">
+                <br/>
+                <br/>
+                <h1 class="display-4">Miam</h1>
+            </div>
+        </div>
+    </div>
+
     <?php include '../nav.php' ?>
 
     <main role="main">
 
-        <div class="container">
+        <div class="container-fluid">
 
-            <h1 class="display-3">Miam</h1>
-            <hr/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
 
             <div class="row">
                 <div class="card-deck">

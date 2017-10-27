@@ -2,18 +2,15 @@ body {
     margin-top: 3.5rem;
 }
 
-.backimg {
-    color: #fff;
-    background-repeat: no-repeat;
-    background-size: cover;
+html {
+    overflow: scroll;
 }
 
-.img1 {
-    background-image: url(img/lessiveico.jpg);
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
 }
 
 .card {
     margin-bottom: 0.5rem;
 }
-
-

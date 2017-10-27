@@ -4,6 +4,7 @@
 <head>
     <title>Faire + Acheter - | Accueil</title>
     <?php include 'head.php' ?>
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>

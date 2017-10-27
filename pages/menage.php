@@ -8,14 +8,29 @@
 
 <body>
     <!--Navigation bar-->
+
+    <div class="fixed-top">
+        <div class="card bg-secondary text-white text-center">
+            <div class="card-body">
+                <br/>
+                <br/>
+                <h1 class="display-4">Ménage</h1>
+            </div>
+        </div>
+    </div>
+
     <?php include '../nav.php' ?>
 
     <main role="main">
 
-        <div class="container">
 
-            <h1 class="display-3">Ménage</h1>
-            <hr/>
+        <div class="container-fluid">
+
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
 
             <div class="row">
                 <div class="card-deck">
@@ -38,8 +53,31 @@
                         </div>
                     </div>
 
-                </div>
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/nettoyerlaplaqueinox.php'">
+                        <img src="../img/nettoyantplaqueico.jpg" alt="nettoyantplaque" class="card-img-top" />
+                        <div class="card-body">
+                            <h4 class="card-title">Nettoyer la plaque en inox</h4>
+                            <span class="fa fa-clock-o"> 5min + 2 jours de macération</span>
+                            <p class="card-text">Ingrédients: vinaigre d’alcool blanc à 12° au moins, peaux de citron ou d’orange.</p>
+                        </div>
+                    </div>
 
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="card-deck">
+
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/menage/recurerlaplaqueinox.php'">
+                        <img src="../img/recurerico.jpg" alt="nettoyantplaque" class="card-img-top" />
+                        <div class="card-body">
+                            <h4 class="card-title">Récurer la plaque en inox</h4>
+                            <span class="fa fa-clock-o"> 0min</span>
+                            <p class="card-text">Ingrédients: Percarbonate de soude.</p>
+                        </div>
+                    </div>
+
+                </div>
             </div>
 
         </div>

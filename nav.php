@@ -1,9 +1,10 @@
 <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbar">
+        <a class="navbar-brand">Faire <span class="fa fa-plus-circle"></span> acheter <span class="fa fa-minus-circle"></span></a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="http://www.faireplusachetermoins.fr/index.php">Accueil</a>
+                <a class="nav-link active" href="http://www.faireplusachetermoins.fr/index.php">Accueil</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" href="http://www.faireplusachetermoins.fr/pages/miam.php">Miam</a>

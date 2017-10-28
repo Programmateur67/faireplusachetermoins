@@ -36,7 +36,7 @@
 
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/glou.php'">
-                        <img src="img/charbonfiltre2.jpg" alt="illusration glou" class="card-img-top" />
+                        <img src="img/Eaugazeuseico.JPG" alt="illusration glou" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">Glou</h4>
                             <p class="card-text">Remplacer les packs d'eau, créer des boissons fraîches pour l'été, faire ses propres tisanes, et concocter des apéros sympas.</p>
@@ -90,7 +90,7 @@
 
                 </div>
             </div>
-            <div class="mt-3">
+            <div class="row mt-3">
 
                 <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/jardin.php'">
                     <div class="card-body">

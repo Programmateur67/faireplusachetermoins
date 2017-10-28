@@ -57,12 +57,27 @@
                     </div>
                     <div class="d-none d-sm-block">
 
+                        <!--Emplacement pour les photos-->
+
                         <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
+                            <div class="card-header">
+                                Partager
+                            </div>
                             <div class="card-body">
                                 <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmenage%2Frecurerlaplaqueinox.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
                                 <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/menage/recurerlaplaqueinox.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
                                 <a class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true " href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmenage%2Frecurerlaplaqueinox.php&media=&description=Next%20stop%3A%20Pinterest"><span class="fa fa-pinterest-p "></span></a>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                Me contacter
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text"><span class="fa fa-envelope"></span> <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
+                                <p class="card-text"><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
                             </div>
                         </div>
 
@@ -93,12 +108,27 @@
                     </div>
                     <div class="d-block d-sm-none">
 
+                        <!--Emplacement pour les photos-->
+
                         <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
+                            <div class="card-header">
+                                Partager
+                            </div>
                             <div class="card-body">
                                 <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmenage%2Frecurerlaplaqueinox.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
                                 <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/menage/recurerlaplaqueinox.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
                                 <a class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true " href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmenage%2Frecurerlaplaqueinox.php&media=&description=Next%20stop%3A%20Pinterest"><span class="fa fa-pinterest-p "></span></a>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                Me contacter
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text"><span class="fa fa-envelope"></span> <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
+                                <p class="card-text"><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
                             </div>
                         </div>
 

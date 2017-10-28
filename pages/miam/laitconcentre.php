@@ -51,7 +51,7 @@
                         </div>
                         <div class="card-body">
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Lait bio entier<br/> <span class="text-muted">1L microfiltré ou cru</span></li>
+                                <li class="list-group-item">Lait bio entier microfiltré ou cru<br/> <span class="text-muted">1 litre</span></li>
                                 <li class="list-group-item">Sucre de canne bio<br/> <span class="text-muted">400 grammes</span></li>
                             </ul>
                         </div>
@@ -60,25 +60,11 @@
 
                         <!--Emplacement pour les photos-->
 
-                        <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
-                            <div class="card-header">
-                                Partager
-                            </div>
                             <div class="card-body">
-                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Flaitconcentre.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
-                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/laitconcentre.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
-                                <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Flaitconcentre.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
-                            </div>
-                        </div>
-
-                        <div class="card">
-                            <div class="card-header">
-                                Me contacter
-                            </div>
-                            <div class="card-body">
-                                <p class="card-text"><span class="fa fa-envelope"></span> <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
-                                <p class="card-text"><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
+                                <a class="btn btn-light" href="mailto:charlotte.dorn@faireplusachetermoins.fr"><span class="fa fa-envelope"></span> charlotte.dorn</a>
+                                <br/>
+                                <a class="mt-1 btn btn-light" href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank"><span class="fa fa-facebook-official"></span>  Ma page facebook</a>
                             </div>
                         </div>
 
@@ -102,7 +88,19 @@
                             <p class="card-text">Quelle joie de pouvoir zapper la marque hégémonique qui le commercialise dans la grande distribution! Et en plus, celui-ci conserve un goût de lait plus prononcé, c’est bien plus savoureux (pour ceux qui supportent tant de sucre). Une base idéale pour la pâtisserie comme le « sablé millionnaire ». Ou à déguster tel quel, comme aime le faire mon troisième garçon, qui le mélange à du quinoa soufflé au petit déjeuner.</p>
                         </div>
                         <div class="card-footer text-muted ">
-                            &#201crit le 28/10/2017 - Par Charlotte Dorn.
+                            <span class="btn text-muted">
+                                &#201crit le 28/10/2017 - Par Charlotte Dorn.
+                           </span>
+                            <div class="d-none d-sm-inline">
+                                <div class="float-right">
+
+                                    <!--ATTENTION A BIEN CHANGER LES LIENS A CHAQUE FOIS-->
+                                    <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Flaitconcentre.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
+                                    <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/laitconcentre.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
+                                    <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Flaitconcentre.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <hr class="d-none d-sm-block " />
@@ -118,9 +116,7 @@
 
                         <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
-                            <div class="card-header">
-                                Partager
-                            </div>
+
                             <div class="card-body">
                                 <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Flaitconcentre.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
                                 <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/laitconcentre.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
@@ -129,12 +125,10 @@
                         </div>
 
                         <div class="card">
-                            <div class="card-header">
-                                Me contacter
-                            </div>
                             <div class="card-body">
-                                <p class="card-text"><span class="fa fa-envelope"></span> <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
-                                <p class="card-text"><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
+                                <a class="btn btn-light" href="mailto:charlotte.dorn@faireplusachetermoins.fr"><span class="fa fa-envelope"></span> charlotte.dorn</a>
+                                <br/>
+                                <a class="mt-1 btn btn-light" href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank"><span class="fa fa-facebook-official"></span>  Ma page facebook</a>
                             </div>
                         </div>
 

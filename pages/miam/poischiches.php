@@ -71,25 +71,11 @@
                             <img src="../../img/poischiches2.JPG" alt="lessive" class="card-img" />
                         </div>
 
-                        <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
-                            <div class="card-header">
-                                Partager
-                            </div>
                             <div class="card-body">
-                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fpoischiches.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
-                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/poischiches.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
-                                <a class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true " href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fpoischiches.php&media=&description=Next%20stop%3A%20Pinterest"><span class="fa fa-pinterest-p "></span></a>
-                            </div>
-                        </div>
-
-                        <div class="card">
-                            <div class="card-header">
-                                Me contacter
-                            </div>
-                            <div class="card-body">
-                                <p class="card-text"><span class="fa fa-envelope"></span>  <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
-                                <p class="card-text"><span class="fa fa-facebook"></span>  <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
+                                <a class="btn btn-light" href="mailto:charlotte.dorn@faireplusachetermoins.fr"><span class="fa fa-envelope"></span> charlotte.dorn</a>
+                                <br/>
+                                <a class="mt-1 btn btn-light" href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank"><span class="fa fa-facebook-official"></span>  Ma page facebook</a>
                             </div>
                         </div>
 
@@ -118,7 +104,19 @@
                             <p class="card-text">Une fois refroidis, je conserve ces apéros à picorer dans une boîte en inox ou un bocal en verre. A mon avis, ça se garde longtemps mais je ne peux pas tester parce que c’est addictif.</p>
                         </div>
                         <div class="card-footer text-muted">
-                            &#201crit le 26/10/2017 - Par Charlotte Dorn.
+                            <span class="btn text-muted">
+                                &#201crit le 28/10/2017 - Par Charlotte Dorn.
+                           </span>
+                            <div class="d-none d-sm-inline">
+                                <div class="float-right">
+
+                                    <!--ATTENTION A BIEN CHANGER LES LIENS A CHAQUE FOIS-->
+                                    <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fpoischiches.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
+                                    <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/poischiches.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
+                                    <a class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true " href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fpoischiches.php&media=&description=Next%20stop%3A%20Pinterest"><span class="fa fa-pinterest-p "></span></a>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <hr class="d-none d-sm-block" />
@@ -141,9 +139,7 @@
 
                         <!-- ATTENTION A BIEN MODIFIER LES LIENS A CHAQUE FOIS -->
                         <div class="card">
-                            <div class="card-header">
-                                Partager
-                            </div>
+
                             <div class="card-body">
                                 <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fpoischiches.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
                                 <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/poischiches.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
@@ -152,12 +148,10 @@
                         </div>
 
                         <div class="card">
-                            <div class="card-header">
-                                Me contacter
-                            </div>
                             <div class="card-body">
-                                <p class="card-text"><span class="fa fa-envelope"></span>  <a href="mailto:charlotte.dorn@faireplusachetermoins.fr">charlotte.dorn</a></p>
-                                <p class="card-text"><span class="fa fa-facebook"></span>  <a href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank">Ma page facebook</a></p>
+                                <a class="btn btn-light" href="mailto:charlotte.dorn@faireplusachetermoins.fr"><span class="fa fa-envelope"></span> charlotte.dorn</a>
+                                <br/>
+                                <a class="mt-1 btn btn-light" href="https://www.facebook.com/Faire-Acheter--135719540513355/?ref=br_rs" target="_blank"><span class="fa fa-facebook-official"></span>  Ma page facebook</a>
                             </div>
                         </div>
 

@@ -43,12 +43,12 @@
                         </div>
                     </div>
 
-                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/saucefajitas.php'">
-                        <img src="../img/fajitasico.jpg" alt="fajitas" class="card-img-top" />
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/vinaigreestragon.php'">
+                        <img src="../img/Vinaigreestragon1ico.jpg" alt="vinaigre  à l'estragon" class="card-img-top" />
                         <div class="card-body">
-                            <h4 class="card-title">Sauce fajitas</h4>
-                            <span class="fa fa-clock-o"> 4h</span>
-                            <p class="card-text">Ingrédients: Environ 5kg de tomate mûre de pleine saison, environ 4kg de poivrons de toutes les couleures, 5 très gros oignons rouge ou rose...</p>
+                            <h4 class="card-title">Vinaigre à l'estragon</h4>
+                            <span class="fa fa-clock-o"> 7min + 24h de repos</span>
+                            <p class="card-text">Ingrédients: 75cl de vinaigre de vin blanc, 6 branches d'estragon.</p>
                         </div>
                     </div>
 
@@ -67,15 +67,6 @@
 
             <div class="row mt-3">
                 <div class="card-deck">
-
-                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/vinaigreestragon.php'">
-                        <img src="../img/Vinaigreestragon1ico.jpg" alt="vinaigre  à l'estragon" class="card-img-top" />
-                        <div class="card-body">
-                            <h4 class="card-title">Vinaigre à l'estragon</h4>
-                            <span class="fa fa-clock-o"> 7min + 24h de repos</span>
-                            <p class="card-text">Ingrédients: 75cl de vinaigre de vin blanc, 6 branches d'estragon.</p>
-                        </div>
-                    </div>
 
                     <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/huilepiment.php'">
                         <img src="../img/Huilepimenteeico.jpg" alt="huile pimentée" class="card-img-top" />

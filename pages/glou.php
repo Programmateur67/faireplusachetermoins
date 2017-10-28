@@ -38,8 +38,8 @@
                         <img src="../img/Eaugazeuseico.JPG" alt="eau gazeuse" class="card-img-top" />
                         <div class="card-body">
                             <h4 class="card-title">Eau gazeuse</h4>
-                            <span class="fa fa-clock-o"> 0min</span>
-                            <p class="card-text">Ingrédients: une machine, des cartouches de gaz.</p>
+                            <span class="fa fa-clock-o"> 10sec</span>
+                            <p class="card-text">Ingrédients: eau filtrée, cartouche de gaz.</p>
                         </div>
                     </div>
 

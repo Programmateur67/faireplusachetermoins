@@ -68,9 +68,9 @@
                                 Partager
                             </div>
                             <div class="card-body">
-                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fglou%2Fhuilepiment.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
-                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/glou/huilepiment.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
-                                <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fglou%2Fhuilepiment.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
+                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fhuilepiment.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
+                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/huilepiment.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
+                                <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fhuilepiment.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
                             </div>
                         </div>
 
@@ -122,9 +122,9 @@
                                 Partager
                             </div>
                             <div class="card-body">
-                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fglou%2Fhuilepiment.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
-                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/glou/huilepiment.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
-                                <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fglou%2Fhuilepiment.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
+                                <a class="btn btn-primary" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fhuilepiment.php&amp;src=sdkpreparse" target="_blank" data-mobile-iframe="true"><span class="fa fa-facebook"></span></a>
+                                <a class="btn btn-success" href="mailto:?subject=J'ai repéré cet article sur Faire + Acheter -&amp;body=Regarde cet article sur cette page http://www.faireplusachetermoins.fr/pages/miam/huilepiment.php" title="Share by Email"><span class="fa fa-envelope"></span></a>
+                                <a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.faireplusachetermoins.fr%2Fpages%2Fmiam%2Fhuilepiment.php&media=&description=Next%20stop%3A%20Pinterest" class="btn btn-danger text-white" data-pin-do="buttonBookmark " data-pin-custom="true "><span class="fa fa-pinterest-p "></span></a>
                             </div>
                         </div>
 

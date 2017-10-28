@@ -52,7 +52,7 @@
                         <div class="card-body">
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">Machine<br/> <span class="text-muted">Sodastream</span></li>
-                                <li class="list-group-item">Cartouches de gaz<br/> <span class="text-muted">1 cartouches par mois</span></li>
+                                <li class="list-group-item">Cartouches de gaz<br/> <span class="text-muted">1 cartouche pour 60L </span>span></li>
                             </ul>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                     <div class="card ">
 
                         <div class="card-header ">
-                            Préparation :<span class="float-right fa fa-clock-o "> 0min</span>
+                            Préparation :<span class="float-right fa fa-clock-o "> 10s</span>
                         </div>
 
                         <div class="card-body ">

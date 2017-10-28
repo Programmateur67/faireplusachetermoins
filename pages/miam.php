@@ -65,6 +65,32 @@
 
             </div>
 
+            <div class="row mt-3">
+                <div class="card-deck">
+
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/vinaigreestragon.php'">
+                        <img src="../img/Vinaigreestragon1ico.jpg" alt="vinaigre  à l'estragon" class="card-img-top" />
+                        <div class="card-body">
+                            <h4 class="card-title">Vinaigre à l'estragon</h4>
+                            <span class="fa fa-clock-o"> 7min + 24h de repos</span>
+                            <p class="card-text">Ingrédients: 75cl de vinaigre de vin blanc, 6 branches d'estragon.</p>
+                        </div>
+                    </div>
+
+                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/huilepiment.php'">
+                        <img src="../img/Huilepimenteeico.jpg" alt="huile pimentée" class="card-img-top" />
+                        <div class="card-body">
+                            <h4 class="card-title">Huile pimentée</h4>
+                            <span class="fa fa-clock-o"> 3min</span>
+                            <p class="card-text">Ingrédients: 25cl d'huile d'olive, 6 piments frais.</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
         </div>
 
     </main>

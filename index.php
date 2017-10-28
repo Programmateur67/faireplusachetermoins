@@ -99,7 +99,6 @@
                     </div>
                     <img src="img/poireauxico.jpg" alt="poireaux" class="card-img-bottom" />
                 </div>
-
             </div>
         </div>
     </main>

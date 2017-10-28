@@ -52,15 +52,6 @@
                         </div>
                     </div>
 
-                    <div class="card" onclick="location.href='http://www.faireplusachetermoins.fr/pages/miam/laitconcentre.php'">
-                        <img src="../img/Laitconcentreico.jpg" alt="laitconcentre" class="card-img-top" />
-                        <div class="card-body">
-                            <h4 class="card-title">Lait concentré</h4>
-                            <span class="fa fa-clock-o"> 1h</span>
-                            <p class="card-text">Ingrédients: 1 litre de lait concentré bio microfiltré ou cru, 400g de sucre de canne bio.</p>
-                        </div>
-                    </div>
-
                 </div>
 
             </div>
